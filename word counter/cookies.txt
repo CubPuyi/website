@@ -1,0 +1,18 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wordcounter.net	TRUE	/blog/wp-content/plugins	FALSE	1999999999	wordpress_3dccbe529666d8caceb5028336b7623e	+
+wordcounter.net	TRUE	/blog/wp-content/plugins	FALSE	1999999999	wordpress_sec_3dccbe529666d8caceb5028336b7623e	+
+wordcounter.net	TRUE	/blog/wp-admin	FALSE	1999999999	wordpress_3dccbe529666d8caceb5028336b7623e	+
+wordcounter.net	TRUE	/blog/wp-admin	FALSE	1999999999	wordpress_sec_3dccbe529666d8caceb5028336b7623e	+
+wordcounter.net	TRUE	/blog/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+wordcounter.net	TRUE	/blog/	FALSE	1999999999	wordpress_logged_in_3dccbe529666d8caceb5028336b7623e	+
+wordcounter.net	TRUE	/blog/	FALSE	1999999999	wp-settings-0	+
+wordcounter.net	TRUE	/blog/	FALSE	1999999999	wp-settings-time-0	+
+wordcounter.net	TRUE	/blog/	FALSE	1999999999	wordpress_3dccbe529666d8caceb5028336b7623e	+
+wordcounter.net	TRUE	/blog/	FALSE	1999999999	wordpress_sec_3dccbe529666d8caceb5028336b7623e	+
+wordcounter.net	TRUE	/blog/	FALSE	1999999999	wordpressuser_3dccbe529666d8caceb5028336b7623e	+
+wordcounter.net	TRUE	/blog/	FALSE	1999999999	wordpresspass_3dccbe529666d8caceb5028336b7623e	+
+wordcounter.net	TRUE	/blog/	FALSE	1999999999	wp-postpass_3dccbe529666d8caceb5028336b7623e	+
+wordcounter.net	TRUE	/	FALSE	1999999999	PHPSESSID	a5d633c35be7f25eeb54cf92d377b360
+wordcounter.net	TRUE	/	FALSE	1999999999	_csrf	aa06c9d645996622cb802125ab4d8f8943ca8ab5167fd36c3c4c8572b01e3b8da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22csMNWh38ND0XairV3UeWVkgBq44dm4yw%22%3B%7D
+
