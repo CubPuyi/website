@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Privacy Policy	</title>
+	<atom:link href="https://wordcounter.net/blog/privacy-policy/feed" rel="self" type="application/rss+xml" />
+	<link>https://wordcounter.net/blog</link>
+	<description>Because words count</description>
+	<lastBuildDate>Tue, 29 May 2018 08:52:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>
+		By: Dylan		</title>
+		<link>https://wordcounter.net/blog/privacy-policy#comments/20521</link>
+
+		<dc:creator><![CDATA[Dylan]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2017 04:49:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.wordcounter.net/blog/?page_id=352#comment-20521</guid>
+
+					<description><![CDATA[I have to say, after using this site for all my life, I do feel someone needs to give some appreciation. I want to personally thank you for making school so much easier with this website. I do have one idea for you though. With all the teens, like myself, using iPads and such for school, an app for this website would be an amazing thing to happen. Once again, thank you for all you do and for making my life a little bit easier in all the bustle.]]></description>
+			<content:encoded><![CDATA[<p>I have to say, after using this site for all my life, I do feel someone needs to give some appreciation. I want to personally thank you for making school so much easier with this website. I do have one idea for you though. With all the teens, like myself, using iPads and such for school, an app for this website would be an amazing thing to happen. Once again, thank you for all you do and for making my life a little bit easier in all the bustle.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

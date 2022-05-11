@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Word Counter Keyword Density Feature	</title>
+	<atom:link href="https://wordcounter.net/blog/2015/11/08/10864_word-counter-keyword-density-feature.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://wordcounter.net/blog/2015/11/08/10864_word-counter-keyword-density-feature.html</link>
+	<description>Because words count</description>
+	<lastBuildDate>Wed, 13 Jul 2016 01:10:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>
+		By: Marek		</title>
+		<link>https://wordcounter.net/blog/2015/11/08/10864_word-counter-keyword-density-feature.html#comments/6905</link>
+
+		<dc:creator><![CDATA[Marek]]></dc:creator>
+		<pubDate>Wed, 13 Jul 2016 01:10:58 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=864#comment-6905</guid>
+
+					<description><![CDATA[I don&#039;t think keyword density is as important as it was in the past. That being said, you don&#039;t want to overstuff keywords when writing articles. If you write naturally, the keywords should take care of themselves and your articles should rank well. Write high quality content and you should be good!]]></description>
+			<content:encoded><![CDATA[<p>I don&#8217;t think keyword density is as important as it was in the past. That being said, you don&#8217;t want to overstuff keywords when writing articles. If you write naturally, the keywords should take care of themselves and your articles should rank well. Write high quality content and you should be good!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Madhu		</title>
+		<link>https://wordcounter.net/blog/2015/11/08/10864_word-counter-keyword-density-feature.html#comments/2950</link>
+
+		<dc:creator><![CDATA[Madhu]]></dc:creator>
+		<pubDate>Thu, 24 Dec 2015 16:49:28 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=864#comment-2950</guid>
+
+					<description><![CDATA[Nowadays blogging has become a passion and by this article you are helping lots of bloggers, me included. So I want to thank you for spending your time in creating this tool and helping us know the keywords of our writing.]]></description>
+			<content:encoded><![CDATA[<p>Nowadays blogging has become a passion and by this article you are helping lots of bloggers, me included. So I want to thank you for spending your time in creating this tool and helping us know the keywords of our writing.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

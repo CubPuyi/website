@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Is English the Hardest Language to Learn?	</title>
+	<atom:link href="https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html</link>
+	<description>Because words count</description>
+	<lastBuildDate>Mon, 28 Mar 2022 03:30:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>
+		By: centilingual		</title>
+		<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/49740</link>
+
+		<dc:creator><![CDATA[centilingual]]></dc:creator>
+		<pubDate>Mon, 28 Mar 2022 03:30:52 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=2792#comment-49740</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/43021&quot;&gt;Paul&lt;/a&gt;.
+
+It&#039;d be a lot more accurate to say that ARPAnet was created in America. But that&#039;s not what most people think of when they think of the internet. They&#039;re thinking of the application layer protocols like HTTP and the technologies like markup etc. put through those protocols. Almost all the concrete and conceptual work on that level was done by Europeans, and particularly Britons. Tim Berners-Lee, being the obvious example, is British, and he was a major protocol designer, including oF HTTP. And then there&#039;s a bunch of people from UCL, among other institutions, who created, proposed, or standardised many parts of today&#039;s &quot;internet&quot; stacks and topographies. 
+
+The reason they were working in English - even the Europeans - was more likely that English had long since become the standard in science and engineering discourse/communication (plus most non-STEM academia but that&#039;s irrelevant here). The domination of the UK-USA axis in computer science, going right back to the British titans who established it as a discipline like Babbage, Lovelace, Boole etc., resulted in the well-known ASCII character set (and related variants) becoming the only way of interacting with computers, necessitating English or at least knowledge of a suitable Latin script (though, of course, the creation of ISAs, C, FORTRAN etc., by Americans and Britons still mandated the use of English keywords).
+
+QWERTY was not strictly computer-related but likewise came about through the British-Italian-American invention and then expansion of the typewriter market in the 18th and 19th century (Henry Mill&#039;s invention of the typewriter.in Britain goes all the way back to the beginning of the 18th century, but it was only popularised by suitably advanced mass market American models much later). QWERTY also clearly favoured Latin alphabets, especially the English 26 without diacritics, which was another big deal. Outside of European plain-ish alphabetic orthographies, some countries/languages suffered problems, through no real fault of anyone in particular. Oriental and other languages with logographic, ideographic, or syllabary orthographies translated especially poorly to human-computer interfaces. And still do. It&#039;s a not-completely-solved problem. Some Chinese and Japanese keyboards look absolutely wild by comparison to QWERTY.
+
+The only reason the internet and computing more broadly didn&#039;t remain the sole domain of Europeans and Anglosphere dwellers was that some very smart people in those places strove to make it more accessible through internationalisation, localisation, and, most importantly, the elegant work of genius that is unicode (some languages didn&#039;t even have their own code pages pre-unicode). So it&#039;s not like there was any intentional elitism or isolationism involved; it was simply the natural progression of a new branch of science and engineering that emerged out of a specific area of the world. In fact, for a long time now, the kid in the story has been wrong about &quot;the computer speak[ing] English&quot; (at least for the vast majority of use cases concerning a young child on a computer). I can&#039;t help wondering how old that story is, and if it&#039;s real or apocryphal. The sort of resentment it expresses is strange to me: if computer science had been developed in the East, computers would&#039;ve been speaking some variety of Eastern languages (insofar as they favour any language), and a byte would be 2-4 times the size it is now. (That would&#039;ve actually been a somewhat unfortunate event; but maybe it would&#039;ve hastened the development of variable width character sets or even 64/128-bit computing -- who knows?)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/43021">Paul</a>.</p>
+<p>It&#8217;d be a lot more accurate to say that ARPAnet was created in America. But that&#8217;s not what most people think of when they think of the internet. They&#8217;re thinking of the application layer protocols like HTTP and the technologies like markup etc. put through those protocols. Almost all the concrete and conceptual work on that level was done by Europeans, and particularly Britons. Tim Berners-Lee, being the obvious example, is British, and he was a major protocol designer, including oF HTTP. And then there&#8217;s a bunch of people from UCL, among other institutions, who created, proposed, or standardised many parts of today&#8217;s &#8220;internet&#8221; stacks and topographies. </p>
+<p>The reason they were working in English &#8211; even the Europeans &#8211; was more likely that English had long since become the standard in science and engineering discourse/communication (plus most non-STEM academia but that&#8217;s irrelevant here). The domination of the UK-USA axis in computer science, going right back to the British titans who established it as a discipline like Babbage, Lovelace, Boole etc., resulted in the well-known ASCII character set (and related variants) becoming the only way of interacting with computers, necessitating English or at least knowledge of a suitable Latin script (though, of course, the creation of ISAs, C, FORTRAN etc., by Americans and Britons still mandated the use of English keywords).</p>
+<p>QWERTY was not strictly computer-related but likewise came about through the British-Italian-American invention and then expansion of the typewriter market in the 18th and 19th century (Henry Mill&#8217;s invention of the typewriter.in Britain goes all the way back to the beginning of the 18th century, but it was only popularised by suitably advanced mass market American models much later). QWERTY also clearly favoured Latin alphabets, especially the English 26 without diacritics, which was another big deal. Outside of European plain-ish alphabetic orthographies, some countries/languages suffered problems, through no real fault of anyone in particular. Oriental and other languages with logographic, ideographic, or syllabary orthographies translated especially poorly to human-computer interfaces. And still do. It&#8217;s a not-completely-solved problem. Some Chinese and Japanese keyboards look absolutely wild by comparison to QWERTY.</p>
+<p>The only reason the internet and computing more broadly didn&#8217;t remain the sole domain of Europeans and Anglosphere dwellers was that some very smart people in those places strove to make it more accessible through internationalisation, localisation, and, most importantly, the elegant work of genius that is unicode (some languages didn&#8217;t even have their own code pages pre-unicode). So it&#8217;s not like there was any intentional elitism or isolationism involved; it was simply the natural progression of a new branch of science and engineering that emerged out of a specific area of the world. In fact, for a long time now, the kid in the story has been wrong about &#8220;the computer speak[ing] English&#8221; (at least for the vast majority of use cases concerning a young child on a computer). I can&#8217;t help wondering how old that story is, and if it&#8217;s real or apocryphal. The sort of resentment it expresses is strange to me: if computer science had been developed in the East, computers would&#8217;ve been speaking some variety of Eastern languages (insofar as they favour any language), and a byte would be 2-4 times the size it is now. (That would&#8217;ve actually been a somewhat unfortunate event; but maybe it would&#8217;ve hastened the development of variable width character sets or even 64/128-bit computing &#8212; who knows?)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Raven		</title>
+		<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/49725</link>
+
+		<dc:creator><![CDATA[Raven]]></dc:creator>
+		<pubDate>Sat, 26 Mar 2022 01:41:08 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=2792#comment-49725</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/44458&quot;&gt;America isn&#039;t the centre of the world&lt;/a&gt;.
+
+&quot;English is a language that was formed in a cultural melting pot involving the whole world&quot; Um...no it&#039;s not. That&#039;s not how languages are formed.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/44458">America isn&#8217;t the centre of the world</a>.</p>
+<p>&#8220;English is a language that was formed in a cultural melting pot involving the whole world&#8221; Um&#8230;no it&#8217;s not. That&#8217;s not how languages are formed.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Dustin		</title>
+		<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/46787</link>
+
+		<dc:creator><![CDATA[Dustin]]></dc:creator>
+		<pubDate>Sat, 28 Aug 2021 10:19:37 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=2792#comment-46787</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/44458&quot;&gt;America isn&#039;t the centre of the world&lt;/a&gt;.
+
+yeah but in reality there are several words and phrases like that in a lot of languages that can be watered down to their roots. Thats what it means to have a different language. If bologna was said as &quot;Meat Pancakes&quot; in the US and you went to the US and wanted Bologna then you would ask for Meat Pancakes. Otherwise no one would know what you mean. Same as if you ask for fish and chips you are not going to get what you want in most places. You will get crisps instead of chips. When in Rome do as the Romans. You are not going to change the language by fighting it. Words change over time and even definitions change. Look at the definition for Decimate. If you have a 10 slice pizza and you eat 1 slice you decimated that pizza.(removed 1/10th) Yet in most places Decimate has been come to mean destroyed almost completely. So much that the definition has changed. And there is no reason fighting it because people know what you mean when you say it. 
+
+The same way that you would change most other words to converse in English you should also change the way you say Bologna]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/44458">America isn&#8217;t the centre of the world</a>.</p>
+<p>yeah but in reality there are several words and phrases like that in a lot of languages that can be watered down to their roots. Thats what it means to have a different language. If bologna was said as &#8220;Meat Pancakes&#8221; in the US and you went to the US and wanted Bologna then you would ask for Meat Pancakes. Otherwise no one would know what you mean. Same as if you ask for fish and chips you are not going to get what you want in most places. You will get crisps instead of chips. When in Rome do as the Romans. You are not going to change the language by fighting it. Words change over time and even definitions change. Look at the definition for Decimate. If you have a 10 slice pizza and you eat 1 slice you decimated that pizza.(removed 1/10th) Yet in most places Decimate has been come to mean destroyed almost completely. So much that the definition has changed. And there is no reason fighting it because people know what you mean when you say it. </p>
+<p>The same way that you would change most other words to converse in English you should also change the way you say Bologna</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RandoPearson[SpellingMistakeIntentional]		</title>
+		<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/46779</link>
+
+		<dc:creator><![CDATA[RandoPearson[SpellingMistakeIntentional]]]></dc:creator>
+		<pubDate>Tue, 24 Aug 2021 17:51:46 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=2792#comment-46779</guid>
+
+					<description><![CDATA[In no way do I believe that English Is the most difficult language in the world, and as a Native English speaker [whose French, Spanish and German are just passable] I&#039;m not the best judge, but I do think that it is UNBELIEVABLY annoying sometimes.I think that it is reasonably easy to learn the basics of, but If you want to be able to write and speak beautifully in English, It takes a lot of work because there are thousands of words and a lot of them have individual rules.It is also worth noting that English is an unusual and rich language to be able to speak because it is an interesting mix of French, Latin,Anglo-Saxon as well as fundamentally being mostly a Peasant&#039;s tongue, because the English peasant&#039;s were to stubborn to speak French.
+So,in conclusion, I think that English is a lot easier than many other languages around the globe,but is uniquely difficult in a way that all languages are, And as someone who went to School in England,English spelling Tests are a Nightmare.]]></description>
+			<content:encoded><![CDATA[<p>In no way do I believe that English Is the most difficult language in the world, and as a Native English speaker [whose French, Spanish and German are just passable] I&#8217;m not the best judge, but I do think that it is UNBELIEVABLY annoying sometimes.I think that it is reasonably easy to learn the basics of, but If you want to be able to write and speak beautifully in English, It takes a lot of work because there are thousands of words and a lot of them have individual rules.It is also worth noting that English is an unusual and rich language to be able to speak because it is an interesting mix of French, Latin,Anglo-Saxon as well as fundamentally being mostly a Peasant&#8217;s tongue, because the English peasant&#8217;s were to stubborn to speak French.<br />
+So,in conclusion, I think that English is a lot easier than many other languages around the globe,but is uniquely difficult in a way that all languages are, And as someone who went to School in England,English spelling Tests are a Nightmare.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Snoopy		</title>
+		<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/46506</link>
+
+		<dc:creator><![CDATA[Snoopy]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 23:53:16 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=2792#comment-46506</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/44260&quot;&gt;Summers&lt;/a&gt;.
+
+A &#039;numpty&#039; is an idiot but meant in a jocular sense, its not particularly harsh. Popular in Australia.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/44260">Summers</a>.</p>
+<p>A &#8216;numpty&#8217; is an idiot but meant in a jocular sense, its not particularly harsh. Popular in Australia.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Random user		</title>
+		<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/46502</link>
+
+		<dc:creator><![CDATA[Random user]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 07:38:16 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=2792#comment-46502</guid>
+
+					<description><![CDATA[A common example of English being annoying that I see is on an everyday road sign! “Slow children at play” but ah, ah, ah!... you’re missing a very important comma, there, bud. Mmm, yes, slow children. XD]]></description>
+			<content:encoded><![CDATA[<p>A common example of English being annoying that I see is on an everyday road sign! “Slow children at play” but ah, ah, ah!&#8230; you’re missing a very important comma, there, bud. Mmm, yes, slow children. XD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Kimberli McMahan		</title>
+		<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/46401</link>
+
+		<dc:creator><![CDATA[Kimberli McMahan]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2021 15:58:52 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=2792#comment-46401</guid>
+
+					<description><![CDATA[This is great and is really helpful as I explain to my elementary English speaking students who are learning Spanish, French, German and Mandarin Chinese, why English is also difficult (but not as difficult as Mandarin).]]></description>
+			<content:encoded><![CDATA[<p>This is great and is really helpful as I explain to my elementary English speaking students who are learning Spanish, French, German and Mandarin Chinese, why English is also difficult (but not as difficult as Mandarin).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jesusfreak		</title>
+		<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/45093</link>
+
+		<dc:creator><![CDATA[Jesusfreak]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2020 14:10:32 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=2792#comment-45093</guid>
+
+					<description><![CDATA[I&#039;ve taught English for many years.  It has so many irregularities and is changing everyday.  &quot;Set&quot; has over 400 definitions.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ve taught English for many years.  It has so many irregularities and is changing everyday.  &#8220;Set&#8221; has over 400 definitions.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jiaqi		</title>
+		<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/44898</link>
+
+		<dc:creator><![CDATA[Jiaqi]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2020 13:39:19 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=2792#comment-44898</guid>
+
+					<description><![CDATA[I never learned English, but I can speak it. You can already speak it after watching American films and reading English-language media. I could do it when I was six, but I never learned it. English is not a difficult language at all. (English isn&#039;t my native language if you&#039;re wondering.)]]></description>
+			<content:encoded><![CDATA[<p>I never learned English, but I can speak it. You can already speak it after watching American films and reading English-language media. I could do it when I was six, but I never learned it. English is not a difficult language at all. (English isn&#8217;t my native language if you&#8217;re wondering.)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Bob Wihadababeeetsaboy		</title>
+		<link>https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/44813</link>
+
+		<dc:creator><![CDATA[Bob Wihadababeeetsaboy]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2020 17:19:47 +0000</pubDate>
+		<guid isPermaLink="false">https://wordcounter.net/blog/?p=2792#comment-44813</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/43396&quot;&gt;Rosemarie Christensen&lt;/a&gt;.
+
+True, ice cream lady looked at me weird when i asked for mooses tracks]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://wordcounter.net/blog/2017/01/05/102792_english-hardest-language.html#comments/43396">Rosemarie Christensen</a>.</p>
+<p>True, ice cream lady looked at me weird when i asked for mooses tracks</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
